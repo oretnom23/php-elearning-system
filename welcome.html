@@ -1,0 +1,1 @@
+<h2><b>Mission</b></h2><p><b>Our school mission.</b></p><h2><b>Vision</b></h2><h2><span style="font-weight: bolder; font-size: 14px;">Our school vision.</span><b><br></b></h2><h2><b>Goal</b></h2><h2><span style="font-weight: bolder; font-size: 14px;">Our school goal.</span><b><br></b></h2>
